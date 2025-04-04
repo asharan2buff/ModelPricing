@@ -1,4 +1,4 @@
-Deployed App Link : https://modelpricing.onrender.com/
+Deployed Application Link : https://modelpricing.onrender.com/
 
 
 ![image](https://github.com/user-attachments/assets/05d95e33-7ed2-4b5c-8fa9-e1d54ada2f80)
